@@ -1,0 +1,9 @@
+{
+  "name": "nuxt-vuetify-parallax",
+  "version": "1.0.0",
+  "description": "vuetify nuxt tests parallax effects",
+  "main": "index.js",
+  "repository": "https://github.com/DavidCouronne/nuxt-vuetify-parallax.git",
+  "author": "DavidCouronne <couronne.david@gmail.com>",
+  "license": "MIT"
+}
